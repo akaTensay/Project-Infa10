@@ -1,4 +1,6 @@
-﻿#include <iostream>
+// Перед использованием прочтите README файл
+
+#include <iostream>
 #include <string>
 
 using namespace std;
